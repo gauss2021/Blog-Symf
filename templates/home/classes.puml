@@ -1,0 +1,10 @@
+@startuml HEllo
+
+' Class Post
+
+' Class Category
+
+A -> B
+
+@enduml
+
